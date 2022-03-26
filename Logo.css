@@ -1,0 +1,13 @@
+/* Main google logo animation */
+ .LS8OJ img {
+  background: url(https://raw.githubusercontent.com/xEvilRyu/Google/main/Hestia.gif) center no-repeat;
+  padding-bottom: 690px;
+  position: relative;
+  width: 10000px;
+  bottom: 333px;
+  margin: auto
+}
+/* Moves the search bar lower */
+ .om7nvf {
+  padding-top: 90px;
+}
